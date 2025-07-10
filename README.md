@@ -29,5 +29,13 @@
 ![enter image description here](https://i.imgur.com/IVbVlOv.png)
 
 
+## Build Requirements
+
+This project uses the Gradle build system. Ensure you have a JDK version
+17 or higher installed. The Gradle wrapper is configured for Gradle 8.14,
+so running `./gradlew build` will download the correct Gradle distribution
+automatically.
+
+
 
 
