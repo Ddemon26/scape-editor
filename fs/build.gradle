@@ -2,8 +2,8 @@
 description = 'Scape Editor RS2 File System'
 
 dependencies {
-  compile project(':io')
-  compile project(':util')
+  implementation project(':io')
+  implementation project(':util')
 }
 
 sourceSets {
