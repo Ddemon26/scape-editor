@@ -4,7 +4,7 @@ include ':fs'
 include ':gui'
 include ':io'
 include ':util'
-include ':archive-plugin'
+/*include ':archive-plugin'
 include ':interface-plugin'
 include ':itemdef-plugin'
 include ':model-viewer-plugin'
@@ -12,13 +12,13 @@ include 'npcdef-plugin'
 include 'objdef-plugin'
 include 'sprite-plugin'
 include 'texture-plugin'
-include 'varbit-plugin'
+include 'varbit-plugin'*/
 
 project(':fs').projectDir = "$rootDir/fs" as File
 project(':gui').projectDir = "$rootDir/gui" as File
 project(':io').projectDir = "$rootDir/io" as File
 project(':util').projectDir = "$rootDir/util" as File
-project(':archive-plugin').projectDir = "$rootDir/archive-plugin" as File
+/*project(':archive-plugin').projectDir = "$rootDir/archive-plugin" as File
 project(':interface-plugin').projectDir = "$rootDir/interface-plugin" as File
 project(':itemdef-plugin').projectDir = "$rootDir/itemdef-plugin" as File
 project(':model-viewer-plugin').projectDir = "$rootDir/model-viewer-plugin" as File
@@ -26,4 +26,4 @@ project(':npcdef-plugin').projectDir = "$rootDir/npcdef-plugin" as File
 project(':objdef-plugin').projectDir = "$rootDir/objdef-plugin" as File
 project(':sprite-plugin').projectDir = "$rootDir/sprite-plugin" as File
 project(':texture-plugin').projectDir = "$rootDir/texture-plugin" as File
-project(':varbit-plugin').projectDir = "$rootDir/varbit-plugin" as File
+project(':varbit-plugin').projectDir = "$rootDir/varbit-plugin" as File*/

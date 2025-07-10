@@ -1,5 +1,0 @@
-description = 'Scape Editor Vanilla 317 Interface Plugin'
-
-sourceSets {
-    main.java.srcDirs = ['src/main/kotlin']
-}

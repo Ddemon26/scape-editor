@@ -1,5 +1,0 @@
-description = 'Scape Editor Vanilla 317 Model Viewer Plugin'
-
-sourceSets {
-    main.java.srcDirs = ['src/main/kotlin']
-}
