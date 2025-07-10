@@ -1,0 +1,5 @@
+description = 'Scape Editor Vanilla 317 Item Definition Plugin'
+
+sourceSets {
+    main.java.srcDirs = ['src/main/kotlin']
+}

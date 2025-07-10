@@ -29,6 +29,7 @@ description = 'Scape Editor User-Interface'
 defaultTasks 'run'
 
 jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     archiveFileName = 'scape-editor.jar'
     manifest {
         attributes 'Main-Class': mainClassName

@@ -1,0 +1,5 @@
+description = 'Scape Editor Vanilla 317 Sprite Plugin'
+
+sourceSets {
+    main.java.srcDirs = ['src/main/kotlin']
+}
